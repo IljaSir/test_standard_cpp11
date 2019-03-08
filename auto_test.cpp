@@ -8,5 +8,6 @@ int main() {
   for (auto x : v) {
     cout << x << endl;
   }
+  
   return 0;
 }
